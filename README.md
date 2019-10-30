@@ -5,3 +5,8 @@
 ## 文章说明
 
 ## 依赖知识点
+
+1. SpringBoot基础  [GitHub·点这里](https://github.com/cicadasmile/spring-boot-base) 或  [GitEE·点这里](https://gitee.com/cicadasmile/spring-boot-base)
+2. SpringBoot应用  [GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent) 或  [GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)
+3. SpringCloud组件  [GitHub·点这里](https://github.com/cicadasmile/spring-cloud-base) 或  [GitEE·点这里](https://gitee.com/cicadasmile/spring-cloud-base)
+4. Linux中间件搭建  [GitHub·点这里](https://github.com/cicadasmile/linux-system-base) 或  [GitEE·点这里](https://gitee.com/cicadasmile/linux-system-base)
