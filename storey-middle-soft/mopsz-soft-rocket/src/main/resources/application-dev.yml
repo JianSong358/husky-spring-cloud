@@ -1,0 +1,33 @@
+rocket:
+  config:
+    # 生产者配置
+    producer:
+      isOnOff: on
+      groupName: HuskyGroup
+      serverPort: 127.0.0.1:9876
+      maxMessageSize: 4096
+      sendMsgTimeout: 3000
+      retryTimesWhenSendFailed: 2
+    # 消费者配置
+    consumer:
+      isOnOff: on
+      groupName: HuskyGroup
+      serverPort: 127.0.0.1:9876
+      topics: HuskyTopic~*;
+      consumeThreadMin: 5
+      consumeThreadMax: 10
+      consumeMessageBatchMaxSize: 1
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+      service-url:
+        defaultZone: http://127.0.0.1:5001/eureka/
+feign:
+  hystrix:
+    enabled: true
+  client:
+    config:
+      feignName:
+        connectTimeout: 60000
+        readTimeout: 60000

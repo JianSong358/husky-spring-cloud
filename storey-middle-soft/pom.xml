@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>husky-spring-cloud</artifactId>
+        <groupId>com.husky.cloud</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.middle.soft</groupId>
+    <artifactId>storey-middle-soft</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <!-- 中间件服务：搜索引擎 -->
+        <module>mopsz-soft-search</module>
+        <!-- 中间件服务：缓存中心 -->
+        <module>mopsz-soft-redis</module>
+        <!-- 中间件服务：消息队列 -->
+        <module>mopsz-soft-rocket</module>
+        <!-- 中间件服务：定时任务 -->
+        <module>mopsz-soft-quart</module>
+    </modules>
+
+</project>
