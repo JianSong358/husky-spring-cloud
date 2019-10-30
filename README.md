@@ -6,6 +6,7 @@
 2、系统架构图
 
 <img width="500px" height="500px" src="https://gitee.com/cicadasmile/husky-spring-cloud/blob/master/mysql-data-base/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg" />
+
 ## 文章说明
 
 [微服务架构案例(01)：项目技术选型简介，架构图解说明](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484184&idx=1&sn=ad4621bc62e4cb5fda79c686b6af50d4&chksm=fdf457a0ca83deb6caa04a79114f089de9e1b4ce8170cb92444846999d081016bf55bd8299ac&token=1855594949&lang=zh_CN#rd)<br/>
