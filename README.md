@@ -6,7 +6,7 @@
 
 ## 文章说明
 
-[微服务架构案例(01)：项目技术选型简介，架构图解说明](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484184&idx=1&sn=ad4621bc62e4cb5fda79c686b6af50d4&chksm=fdf457a0ca83deb6caa04a79114f089de9e1b4ce8170cb92444846999d081016bf55bd8299ac&token=1855594949&lang=zh_CN#rd)<br/>
+[微服务架构案例(01)：项目技术选型简介，架构图解说明](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484173&idx=1&sn=0adceb6d5261aa1d59908043ff690423&chksm=fdf457b5ca83dea3203e5901771ba1cb49ce05db5b700c21536111f2e251373a484da123f0c2&token=1855594949&lang=zh_CN#rd)<br/>
 
 持续更新中...
 
