@@ -1,0 +1,19 @@
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+      service-url:
+        defaultZone: http://127.0.0.1:5001/eureka/
+zuul:
+  # 前缀，可以用来做版本控制
+  prefix: /v1
+  # 禁用默认路由，执行配置的路由
+  ignored-services: "*"
+  routes:
+    # 配置 Token 服务
+    pro6601:
+      serviceId: mopsz-basis-token
+      path: /api/6601/**
+    pro6102:
+      serviceId: mopsz-user-client
+      path: /api/6102/**

@@ -1,0 +1,16 @@
+eureka:
+  server:
+    # 关闭自我保护机制
+    enable-self-preservation: false
+    # 客户端多久拉取一次服务列表：15s
+    eviction-interval-timer-in-ms: 15000
+  instance:
+    # 展示IP地址
+    prefer-ip-address: true
+  client:
+      # 不作为客户端注册
+      register-with-eureka: false
+      # 不检索服务
+      fetch-registry: false
+      service-url:
+        defaultZone: http://127.0.0.1:5001/eureka/
