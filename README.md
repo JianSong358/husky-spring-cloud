@@ -12,6 +12,13 @@
 - 中间件集成：`RocketMQ`，`Redis`，`Quart`，`ElasticSearch`
 - 数据存储：`MySQL`、`Redis`、`ElasticSearch`
 
+### 3、依赖知识点
+
+- `SpringBoot`基础  [GitHub·点这里](https://github.com/cicadasmile/spring-boot-base) 或  [GitEE·点这里](https://gitee.com/cicadasmile/spring-boot-base)
+- `SpringBoot`应用  [GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent) 或  [GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)
+- `SpringCloud`组件  [GitHub·点这里](https://github.com/cicadasmile/spring-cloud-base) 或  [GitEE·点这里](https://gitee.com/cicadasmile/spring-cloud-base)
+- `Linux中间件`搭建  [GitHub·点这里](https://github.com/cicadasmile/linux-system-base) 或  [GitEE·点这里](https://gitee.com/cicadasmile/linux-system-base)
+
 ## 文章说明
 
 [微服务架构案例(01)：项目技术选型简介，架构图解说明](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484173&idx=1&sn=0adceb6d5261aa1d59908043ff690423&chksm=fdf457b5ca83dea3203e5901771ba1cb49ce05db5b700c21536111f2e251373a484da123f0c2&token=1855594949&lang=zh_CN#rd)<br/>
@@ -21,13 +28,6 @@
 [微服务架构案例(05)：SpringCloud 基础组件应用设计](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484211&idx=1&sn=b18843bfbb9b5b291ff1c8b9626b5c53&chksm=fdf4578bca83de9d2542bd2a71e7d655f5f172f90dde99c931ebc2158bb5dafcf34629dfb308&token=1641533948&lang=zh_CN#rd)<br/>
 
 持续更新中...
-
-## 依赖知识点
-
-1. `SpringBoot`基础  [GitHub·点这里](https://github.com/cicadasmile/spring-boot-base) 或  [GitEE·点这里](https://gitee.com/cicadasmile/spring-boot-base)
-2. `SpringBoot`应用  [GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent) 或  [GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)
-3. `SpringCloud`组件  [GitHub·点这里](https://github.com/cicadasmile/spring-cloud-base) 或  [GitEE·点这里](https://gitee.com/cicadasmile/spring-cloud-base)
-4. `Linux中间件`搭建  [GitHub·点这里](https://github.com/cicadasmile/linux-system-base) 或  [GitEE·点这里](https://gitee.com/cicadasmile/linux-system-base)
 
 ## 关于作者
 【<b>公众号：知了一笑</b>】    【<b>[知乎专栏](https://www.zhihu.com/people/cicadasmile/columns)</b>】<br/>
