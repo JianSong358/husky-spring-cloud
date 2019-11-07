@@ -16,6 +16,7 @@
 
 [微服务架构案例(01)：项目技术选型简介，架构图解说明](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484173&idx=1&sn=0adceb6d5261aa1d59908043ff690423&chksm=fdf457b5ca83dea3203e5901771ba1cb49ce05db5b700c21536111f2e251373a484da123f0c2&token=1855594949&lang=zh_CN#rd)<br/>
 [微服务架构案例(02)：业务架构设计，系统分层管理](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484192&idx=1&sn=9327cb5595c3eea1f78f777f37892d18&chksm=fdf45798ca83de8eb4b05b344fcb87ea763d5ba1d880536fc9b422e03033ad7d66217fe6e59e&token=1641533948&lang=zh_CN#rd)<br/>
+[微服务架构案例(03)：数据库选型简介，业务数据规划设计](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484199&idx=1&sn=40838d2d9e9c50c35112f03795c4224a&chksm=fdf4579fca83de89ddde900f2b95c4aa1e02edd96d68dd6fb0eef04e314a4214a9e99d9ca1e4&token=1641533948&lang=zh_CN#rd)<br/>
 
 持续更新中...
 
