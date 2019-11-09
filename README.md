@@ -32,3 +32,9 @@
 ## 关于作者
 【<b>公众号：知了一笑</b>】    【<b>[知乎专栏](https://www.zhihu.com/people/cicadasmile/columns)</b>】<br/>
 <img width="255px" height="255px" src="https://avatars0.githubusercontent.com/u/50793885?s=460&v=4"/><br/>
+
+## 推荐项目
+
+|项目名称|GitHub地址|GitEE地址
+|:---|:---|:---|
+|SpringCloud微服务架构案例|[GitHub·点这里](https://github.com/cicadasmile/husky-spring-cloud)|[GitEE·点这里](https://gitee.com/cicadasmile/husky-spring-cloud)|
